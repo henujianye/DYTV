@@ -17,7 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"you are firstone");
-    NSLog(@"Push 这些代码。。。");
+    NSLog(@"Push 这些代、、、码。。。");
+    
+    
+    
+    //我就是该店东西
     //改了带你注释。。。
     // Do any additional setup after loading the view, typically from a nib.
 }
